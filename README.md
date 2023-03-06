@@ -3,7 +3,7 @@
   </div>
   <div style='border-top="solid 1px grey"'></div>
  <div>
-  👨‍💻: About Me :
+  👨‍💻: About Me : </br>
   I am a junior developer from sweden that is eager to learn, I'm currently at Nilo Collab as a student and working on my own NX express/react app in TypeScript.
   </div>
 
