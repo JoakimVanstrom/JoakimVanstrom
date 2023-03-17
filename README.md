@@ -22,3 +22,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=psykisk&show_icons=true&locale=en&layout=compact" alt="joakim vanström" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psykisk&show_icons=true&locale=en" alt="joakim vanström" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psykisk&" alt="joakim vanström" /></p>
