@@ -39,5 +39,5 @@
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=psykisk&show_icons=true&locale=en" alt="joakim vanström"/>
 </div>
 <div>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=psykisk&theme=dark&background=000000)](https://git.io/streak-stats)
+<img align="left" src=[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Psykisk&theme=dark)](https://git.io/streak-stats) alt= "joakim stats"
 </div>
