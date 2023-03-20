@@ -13,7 +13,7 @@
 
 
 <div align="center">
-  <h1>Hello 👋, I'm Joakim</h1>
+  <h1>Hey there 👋, I'm Joakim</h1>
   </div>
   <div style='border-top="solid 1px grey"'></div>
  <div>
