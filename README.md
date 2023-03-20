@@ -4,8 +4,14 @@
   <p align="center">
 <a href="https://www.linkedin.com/in/joakim-vanstrom/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joakim vanström" height="30" width="40" /></a>
 </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=psykisk&style=flat-square&color=blue" alt=""/>
+</div>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=psykisk&style=flat-square&color=blue" alt=""/>
+
 <div align="center">
   <h1>Hello 👋, I'm Joakim</h1>
   </div>
