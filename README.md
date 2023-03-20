@@ -38,6 +38,7 @@
 <div>
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=psykisk&show_icons=true&locale=en" alt="joakim vanström"/>
 </div>
-<div>
-<img align="left" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Psykisk&theme=dark)](https://git.io/streak-stats)" alt= "joakim stats"
-</div>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=psykisk&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=psykisk&theme=default" />
+</picture>
