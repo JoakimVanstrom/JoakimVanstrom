@@ -33,7 +33,7 @@
 ---
 
 <div>
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=psykisk&show_icons=true&locale=en&layout=compact" alt="joakim vanström" />
+   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?psykisk&layout=compact&theme=vision-friendly-dark" alt="joakim vanström" />
 </div>
 <div>
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=psykisk&show_icons=true&locale=en" alt="joakim vanström"/>
