@@ -32,9 +32,12 @@
 
 ---
 
-<div>
-   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?psykisk&layout=compact&theme=vision-friendly-dark" alt="joakim vanström" />
-</div>
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?psykisk=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+</picture>
 <div>
    <img align="left" src="https://github-readme-stats.vercel.app/api?username=psykisk&show_icons=true&locale=en" alt="joakim vanström"/>
 </div>
