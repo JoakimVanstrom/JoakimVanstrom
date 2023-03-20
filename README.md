@@ -34,7 +34,7 @@
 
 <picture>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psykisk"
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psykisk" />
 </picture>  
 
 <picture>
