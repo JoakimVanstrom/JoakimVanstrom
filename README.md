@@ -20,14 +20,10 @@
   I am a junior developer from sweden that is eager to learn, I'm currently at Nilo Collab as a student and working on my own NX express/react app in TypeScript.
   </div>
   
-
-
-
-
+<div>
 <h3 align="left">Contact me:</h3>
-
 <p align="left"> 📧 joakim.vanstrom@gmail.com </p>
-
+</div>
 </hr>
 
 <h3 align="left"> 🛠️ Languages and Tools:</h3>
