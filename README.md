@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
   <p align="center">
-<a href="https://www.linkedin.com/in/joakim-vanstrom/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joakim vanström" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/joakim-vanstrom/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </p>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=psykisk&style=flat-square&color=blue" alt=""/>
