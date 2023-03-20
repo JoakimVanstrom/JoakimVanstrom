@@ -33,14 +33,16 @@
 ---
 
 <picture>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psykisk"
+</picture>  
+
+<picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=psykisk&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"/>
   <img src="https://github-readme-stats.vercel.app/api?username=psykisk&show_icons=true" />
 </picture>
-<div>
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=psykisk&show_icons=true&locale=en" alt="joakim vanström"/>
-</div>
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=psykisk&theme=dark" />
     <img src="https://streak-stats.demolab.com?user=psykisk&theme=default" />
