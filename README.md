@@ -33,8 +33,10 @@
 ---
 
 <picture>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psykisk&show_icons=true" />
+  <source 
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=psykisk&theme=dark"
+  media="(prefers-color-scheme: dark)"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psykisk" />
 </picture>  
 
 <picture>
