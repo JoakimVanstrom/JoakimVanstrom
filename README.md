@@ -34,18 +34,18 @@
 
 <picture>
   <source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=psykisk&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoakimVanstrom&theme=dark"
   media="(prefers-color-scheme: dark)"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=psykisk" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoakimVanstrom" />
 </picture><br />
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=psykisk&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=JoakimVanstrom&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=psykisk&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoakimVanstrom&show_icons=true" />
 </picture> <br />
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=psykisk&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=psykisk&theme=default" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=JoakimVanstrom&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=JoakimVanstrom&theme=default" />
 </picture>
