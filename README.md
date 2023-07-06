@@ -22,7 +22,7 @@
   
 <div>
 <h3 align="left">Contact me:</h3>
-<p align="left"> 📧 joakim@vanstrom.se </p>
+<p align="left"> 📧 joakim.vanstrom@gmail.com </p>
 </div>
 
 ---
