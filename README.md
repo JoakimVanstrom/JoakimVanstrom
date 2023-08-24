@@ -47,5 +47,5 @@
 </picture> <br />
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=JoakimVanstrom&theme=dark" />
-    <img src="https://streak-stats.demolab.com?user=JoakimVanstrom&theme=default" />
+    <img src="https://streak-stats.demolab.com?user=JoakimVanstrom" />
 </picture>
