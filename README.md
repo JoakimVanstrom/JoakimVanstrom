@@ -17,7 +17,7 @@
   </div>
   <div style='border-top="solid 1px grey"'></div>
  <div>
-  I am a junior developer from sweden that is eager to learn, I'm currently at Nilo Collab as a student and working on my own NX express/react app in TypeScript.
+  I am a junior developer from sweden that is eager to learn, I'm currently practicing .NET Core MVC and working on my own NX express/react app in TypeScript.
   </div>
   
 <div>
